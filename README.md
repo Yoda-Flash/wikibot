@@ -19,7 +19,7 @@ Then WikiBot is for you! Read on to find out more. <br>
 - [Features](#Features)
 - [Demo](#Demo)
 - [Usage](#Usage)
-- [Technologies Used](#Technologies Used)
+- [Technologies Used](#TechnologiesUsed)
 
 ## Description
 
