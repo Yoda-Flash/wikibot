@@ -34,7 +34,7 @@ It is especially handy when you want to prove a point during an argument on Disc
 
 ## Demo
 Click on the following link to watch a demo of using the bot:
-
+https://youtu.be/P6JHtZdK6p0
 
 ## Usage
 There are 2 main modes:
