@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/Yoda-Flash/wikibot/discord-profile-image.png" width="400" />
+  <img src="https://github.com/Yoda-Flash/wikibot/blob/main/discord-profile-image.png?raw=true" width="400" />
 </p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DAE16&vCenter=true&multiline=true&random=false&width=435&height=100&lines=Easily+Extract+Bite-Sized+Wikipedia;Information+On+Discord!" alt="Typing SVG" /></a>
