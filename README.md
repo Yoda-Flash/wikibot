@@ -47,7 +47,7 @@ The bot involves 4 main commands:
 3. First_result_summary: Recommended method of gaining a summary. Returns a text summary of a Wikipedia page of the user's input. If there are more than 1 articles on the input topic, the bot will return a summary of the first article.
 4. List_summary: Returns a text summary of a Wikipedia page of the user's input. If there are more than 1 articles on the input topic, the bot will return a list of all of them, so the user can try again with a more specific search.
 
-##Technologies Used
+## Technologies Used
 - Python: [Click to read official documentation](https://docs.python.org/3/)
 - Discord API: [Click to read official documentation](https://discord.com/developers/docs/intro)
 - Wikipedia API: [Click to read documentation on Py-Pi](https://pypi.org/project/Wikipedia-API/)
