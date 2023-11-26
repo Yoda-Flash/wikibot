@@ -42,7 +42,7 @@ There are 2 main modes:
 2. Extraction information from a specific section
 
 The bot involves 4 main commands:
-1. Get_sections: Get a list of the first ten sections on a Wikipedia page of the user's input. If there are more than 1 articles on the input topic, the bot will return a list of all of them, so the user can try again with a more specific search.
+1. Get_ten_sections: Get a list of the first ten sections on a Wikipedia page of the user's input. If there are more than 1 articles on the input topic, the bot will return a list of all of them, so the user can try again with a more specific search.
 2. Return_section: Returns the text from a specified section of the Wikipedia page on the inputted topic. It is designed to be used in conjunction with get_all_sections.
 3. First_result_summary: Recommended method of gaining a summary. Returns a text summary of a Wikipedia page of the user's input. If there are more than 1 articles on the input topic, the bot will return a summary of the first article.
 4. List_summary: Returns a text summary of a Wikipedia page of the user's input. If there are more than 1 articles on the input topic, the bot will return a list of all of them, so the user can try again with a more specific search.
