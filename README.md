@@ -20,6 +20,7 @@ Then WikiBot is for you! Read on to find out more. <br>
 - [Demo](#Demo)
 - [Usage](#Usage)
 - [Technologies Used](#Technologies-Used)
+- [Add Bot to Your Server!](#Add-Bot-To-Your-Server)
 
 ## Description
 
@@ -50,3 +51,6 @@ The bot involves 4 main commands:
 - Python: [Click to read official documentation](https://docs.python.org/3/)
 - Discord API: [Click to read official documentation](https://discord.com/developers/docs/intro)
 - Wikipedia API: [Click to read documentation on Py-Pi](https://pypi.org/project/Wikipedia-API/)
+
+## Add Bot To Your Server
+[Click here to invite the bot to your server!](https://discord.com/api/oauth2/authorize?client_id=1114123185827356743&permissions=0&scope=bot)
